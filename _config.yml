@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sungmin Kang / About me"
+title                    : "Sungmin Kang"
 title_separator          : "-"
 name                     : &name "Sungmin Kang"
 description: &description |
