@@ -27,9 +27,9 @@ author:
   bio              : "M.S. student in Electrical and Computer Engineering at USC"
   location         : "Seoul / LA"
   employer         : "University of Southern California"
-  uri              : # URL
   email            : "kangsung@usc.edu" 
-
+  uri              : # URL
+  
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
