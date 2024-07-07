@@ -8,10 +8,17 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sungmin Kang / Sungmin Kang: About me"
+title                    : "Sungmin Kang / About me"
 title_separator          : "-"
 name                     : &name "Sungmin Kang"
-description              : &description "personal description"
+description: &description |
+  Hi! I’m a M.S. student in Electrical and Computer Engineering (Machine Learning & Data Science Track) at University of Southern California. I am also currently working with Professor Sunwoo Lee. 
+
+  My research focuses in Distributed AI and Efficient Machine Learning. I am particularly interested in reducing communication and computation costs in federated learning, and leveraging foundation models through parameter-efficient fine-tuning on limited resources.
+
+  Before studying at USC, I earned my Bachelor’s degree in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea. I worked with Professor Hongseok Kim, focusing on algorithmic research and the implementation of federated learning.
+
+  Besides machine learning, I enjoy playing tennis and soccer.
 url                      : https://sungminkangml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sungminkangML/sungminkangml.github.io"
@@ -25,7 +32,7 @@ author:
   name             : "Sungmin Kang"
   pronouns         : "he/him/his"  
   bio              : "MS student in ELectrical and Computer Engineering at USC"
-  location         : "Earth"
+  location         : "Seoul / LA"
   employer         : "University of Southern California"
   uri              : # URL
   email            : "kangsung@usc.edu" 
