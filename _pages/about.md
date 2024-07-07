@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a M.S. student in Electrical and Computer Engineering (Machine Learning & Data Science Track) at University of Southern California. I am also currently working with Professor Sunwoo Lee.
+Hi! I’m a M.S. student in Electrical and Computer Engineering (Machine Learning & Data Science Track) at the University of Southern California.
 
-My research focuses in Distributed AI and Efficient Machine Learning. I am particularly interested in reducing communication and computation costs in federated learning, and leveraging foundation models through parameter-efficient fine-tuning on limited resources.
+My research focuses in Distributed AI and Efficient Machine Learning. I am particularly interested in reducing communication and computation costs in federated learning, and leveraging foundation models through parameter-efficient fine-tuning on limited resources. I am also currently working with Professor Sunwoo Lee.
 
 Before studying at USC, I earned my Bachelor’s degree in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea. I worked with Professor Hongseok Kim, focusing on algorithmic research and the implementation of federated learning.
 
