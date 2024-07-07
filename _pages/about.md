@@ -17,6 +17,6 @@ Besides machine learning, I enjoy playing tennis and soccer.
 
 News
 ======
-Aug 26, 2024&nbsp;&nbsp;&nbsp;I am starting my M.S. degree at USC ECE! So excited!
+Aug 26, 2024 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am starting my M.S. degree at USC ECE! So excited!
 
-Feb 20, 2024&nbsp;&nbsp;&nbsp;Graduated from Sogang University!
+Feb 20, 2024 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduated from Sogang University!
