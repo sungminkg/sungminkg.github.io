@@ -28,7 +28,7 @@ repository               : "sungminkangML/sungminkangml.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "SungminKang.jpg"
   name             : "Sungmin Kang"
   pronouns         : "he/him/his"  
   bio              : "MS student in ELectrical and Computer Engineering at USC"
