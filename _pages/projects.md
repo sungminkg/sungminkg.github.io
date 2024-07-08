@@ -10,5 +10,3 @@ author_profile: true
   <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
   <p>{{ project.excerpt }}</p>
 {% endfor %}
-
-{% include youtube.html id="dnfslIC5CPg" %}
