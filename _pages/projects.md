@@ -5,8 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!-- {% include youtube.html id="dnfslIC5CPg" %} -->
-{% for project in site.projects %}
+{% comment %}
+{% for project in site.projects reversed %}
   <h2><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
   <p>{{ project.excerpt }}</p>
+{% endfor %}
+{% endcomment %}
+
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
 {% endfor %}
