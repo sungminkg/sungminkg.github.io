@@ -11,7 +11,7 @@ Hi! I’m a M.S. student in Electrical and Computer Engineering (Machine Learnin
 
 My research focuses on Distributed AI and Efficient Machine Learning. I am particularly interested in reducing communication and computation costs in federated learning, and leveraging foundation models on limited resources through parameter-efficient fine-tuning. I am also currently working with [Professor Sunwoo Lee](https://sites.google.com/view/sunwoolee/home).
 
-Previously, I earned my Bachelor’s degree in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea. I worked with [Professor Hongseok Kim](https://nice.sogang.ac.kr/), focusing on algorithmic research and the implementation of federated learning.
+Previously, I earned my Bachelor’s degree in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea. I worked with [Professor Hongseok Kim](https://nice.sogang.ac.kr/), focusing on algorithmic research and implementation of federated learning.
 
 Besides machine learning, I enjoy playing tennis and soccer, and watching baseball.
 
