@@ -1,69 +1,191 @@
-# Jekyll Site Configuration for sungminkg.github.io
+# Welcome to Jekyll!
 
 # Basic Site Settings
 remote_theme: academicpages/academicpages.github.io
-locale: "en-US"
-title: "Sungmin Kang"
-title_separator: "-"
-name: &name "Sungmin Kang"
-description: &description "M.S. student in ECE at USC"
-url: "https://sungminkg.github.io"
-baseurl: ""
-repository: "sungminkg/sungminkg.github.io"
+locale                   : "en-US"
+title                    : "Sungmin Kang"
+title_separator          : "-"
+name                     : &name "Sungmin Kang"
+description              : &description ""
+url                      : https://sungminkg.github.io
+baseurl                  : ""
+repository               : "sungminkg/sungminkg.github.io"
 
-# Author Profile (sidebar)
+# Site Author
 author:
-  avatar: "SungminKang.jpg"
-  name: "Sungmin Kang"
-  pronouns: "he/him"
-  bio: "M.S. student in Electrical and Computer Engineering at USC"
-  location: "Los Angeles"
-  employer: "University of Southern California"
-  email: "kangsung@usc.edu"
-  github: "sungminkg"
-  linkedin: "https://www.linkedin.com/in/sungmin-kang-1999y64/"
+  avatar           : "SungminKang.jpg"
+  name             : "Sungmin Kang"
+  pronouns         : "he/him/his"  
+  bio              : "M.S. student in Electrical and Computer Engineering at USC"
+  location         : "Los Angeles"
+  employer         : "University of Southern California"
+  email            : "kangsung@usc.edu" 
+  uri              : 
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  github           : "sungminkg"
+  kaggle           : 
+  stackoverflow    : 
+  bluesky          : 
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/sungmin-kang-1999y64/"
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       : 
+  steam            : 
+  telegram         : 
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            : 
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            : 
 
 # Site Settings
-future: true
-read_more: "disabled"
-breadcrumbs: false
-talkmap_link: false
-words_per_minute: 160
-
-# Comments
+teaser                   :  
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider: false
-
-# Feeds
+  provider               : 
+  disqus:
+    shortname            :
+  discourse:
+    server               : 
+  facebook:
+    appid                :
+    num_posts            : 
+    colorscheme          : 
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601"
 atom_feed:
-  hide: false
+  hide                   : false
+  path                   : 
 
-# Markdown Conversion
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  
+social:
+  type                   : 
+  name                   : 
+  links: 
+
+# Analytics
+analytics:
+  provider               :  "false"
+  google:
+    tracking_id          :
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
 markdown: kramdown
 highlighter: rouge
+lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+# Markdown Processing
 kramdown:
   input: GFM
+  hard_wrap: false
   auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# Defaults for collections/pages
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -72,7 +194,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
   - scope:
@@ -88,6 +210,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
   - scope:
       path: ""
       type: publications
@@ -95,6 +218,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
   - scope:
       path: ""
       type: portfolio
@@ -102,6 +226,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
   - scope:
       path: ""
       type: talks
@@ -109,39 +234,32 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
-# Include folders
-include:
-  - .htaccess
-  - _pages
-  - files
-
-# Exclude from build
-exclude:
-  - "*.sublime-*"
-  - .bundle
-  - .github
-  - node_modules
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - package.json*
-  - Rakefile
-  - log
-  - tmp
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed
 
-# Permalink
+# Outputting
 permalink: /:categories/:title/
 timezone: America/Los_Angeles
 
-# Archive paths
+# Plugins (only GitHub-supported)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# Archives
 category_archive:
   type: liquid
   path: /categories/
