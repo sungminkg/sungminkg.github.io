@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a M.S. student in Electrical and Computer Engineering (Machine Learning & Data Science Track) at the University of Southern California.
+Hi! I’m a graduate researcher interested in developing **trustworthy and scalable machine learning systems**, with a focus on **large language models (LLMs)**, **uncertainty estimation**, and **efficient model adaptation**. My research lies at the intersection of theory and practice — I explore how internal model signals such as **gradients** and **activations** can be used to improve both the **reliability** and **efficiency** of modern ML systems.
 
-My research focuses on **Distributed AI** and **Efficient Machine Learning**. I am particularly interested in reducing communication and computation costs in federated learning, and leveraging foundation models on limited resources through parameter-efficient fine-tuning. I am also currently working with [Professor Sunwoo Lee](https://sites.google.com/view/sunwoolee/home).
+I'm currently pursuing an M.S. in Electrical and Computer Engineering (Machine Learning & Data Science Track) at the University of Southern California. I work with [Professor Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital.html), focusing on efficient LLM fine-tuning and uncertainty quantification. I also collaborate with [Professor Sunwoo Lee](https://sites.google.com/view/sunwoolee/home) on scalable machine learning systems.
 
-Previously, I earned my Bachelor’s degree in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea. I worked with [Professor Hongseok Kim](https://nice.sogang.ac.kr/), focusing on algorithmic research and implementation of federated learning.
+Previously, I earned my B.S. in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea, where I worked with [Professor Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning.
 
 Besides machine learning, I enjoy playing tennis and soccer, and watching baseball.
 
