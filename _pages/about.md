@@ -23,7 +23,7 @@ I study how to enhance efficiency in the learning process by leveraging gradient
 
 I’m especially interested in bridging theory and practice—leveraging internal model signals such as gradients, attention maps, and token probabilities to improve the reliability, efficiency, and robustness of a machine learning system.
 
-Previously, I earned my B.S. in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea, where I worked with [Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning, covering both algorithmic design and practical implementation.
+Previously, I earned my B.S. in Electronic Engineering from Sogang University in South Korea, where I worked with [Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning, covering both algorithmic design and practical implementation.
 
 ---
 
