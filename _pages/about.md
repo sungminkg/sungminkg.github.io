@@ -19,11 +19,12 @@ Besides machine learning, I enjoy playing tennis and soccer, and watching baseba
 
 ## 📰 News
 
-- **Jun 15, 2025** – Our paper _“Reconsidering Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ got accepted to **ACL 2025** See you in Vienna! 🎉  
-- **Aug 26, 2024** – I am starting my M.S. degree at USC ECE! So excited!  
-- **Feb 20, 2024** – Graduated from Sogang University!  
+- **Jun 15, 2025** – Our paper _“Reconsidering Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ was accepted to **ACL 2025**! See you in Vienna! 🎉  
+- **Aug 26, 2024** – I started my M.S. in Electrical and Computer Engineering at USC. Excited for the journey ahead!  
+- **Feb 20, 2024** – I graduated from Sogang University with a B.S. in Electronic Engineering!
 
 ---
+
 
 ## 🎓 Education
 
@@ -41,5 +42,4 @@ GPA: 3.91 / 4.3 – _Magna Cum Laude_
 
 ## 📬 Contact
 
-Feel free to contact me at [kangsung@usc.edu](mailto:kangsung@usc.edu)  
-Or connect via [LinkedIn](https://www.linkedin.com/in/sungmin-kang-1999y64/)
+Feel free to contact me at [kangsung@usc.edu](mailto:kangsung@usc.edu) or connect via [LinkedIn](https://www.linkedin.com/in/sungmin-kang-1999y64/)
