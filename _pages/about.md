@@ -9,13 +9,17 @@ redirect_from:
 
 Hi! I’m a 2nd-year Master's student in Electrical and Computer Engineering at the University of Southern California. I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty estimation in LLMs. I also collaborate with [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home), focusing on scalable machine learning.
 
+---
+
+## 🔬 Research Focus
+
 My research centers on building (1) **trustworthy** and (2) **scalable** machine learning systems.
 
 **1) Trustworthy Machine Learning**  
 I am particularly interested in **uncertainty estimation in LLMs**. My recent work focuses on quantifying uncertainty of LLM generations in realistic scenarios. Currently, I am working on uncertainty estimation in in-context scenarios, involving retrieved or provided documents. This work focuses on developing methods that are robust to distribution shifts, ensuring reliability even in out-of-domain situations.
 
 **2) Scalable Machine Learning**  
-I study how to enhance efficiency in the learning process by leveraging gradient signals. My recent work proposes a **parameter-efficient fine-tuning** method that identifies and updates only the most important parameters, assessed by gradient-based signals. Furthermore, I have been doing research on reducing communication costs in federated learning by recycling gradient information.
+I study how to enhance efficiency in the learning process by leveraging gradient signals. My recent work proposes a **parameter-efficient fine-tuning** method that identifies and updates only the most important parameters, assessed by gradient-based signals. Furthermore, I have been doing research on reducing communication costs in **federated learning** by recycling gradient information.
 
 I’m especially interested in bridging theory and practice—leveraging internal model signals such as gradients, attention maps, and token probabilities to improve the reliability, efficiency, and robustness of a machine learning system.
 
