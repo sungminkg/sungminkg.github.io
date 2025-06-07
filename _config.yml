@@ -78,9 +78,12 @@ facebook:
   publisher:
 og_image:
 social:
-  type:
-  name:
+  type: "Person"
+  name: "Sungmin Kang"
   links:
+    - "https://github.com/sungminkg"
+    - "https://www.linkedin.com/in/sungmin-kang-1999y64/"
+    - "https://scholar.google.com/citations?hl=ko&user=4gE_vYgAAAAJ"
 
 # Analytics
 analytics:
