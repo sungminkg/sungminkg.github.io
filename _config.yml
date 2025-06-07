@@ -22,6 +22,7 @@ author:
   email            : "kangsung@usc.edu" 
   uri              : 
   github           : "sungminkg"
+  scholar: "https://scholar.google.com/citations?user=4gE_vYgAAAAJ"
   linkedin         : "https://www.linkedin.com/in/sungmin-kang-1999y64/"
 
 # Site Settings
@@ -83,7 +84,7 @@ social:
   links:
     - "https://github.com/sungminkg"
     - "https://www.linkedin.com/in/sungmin-kang-1999y64/"
-    - "https://scholar.google.com/citations?hl=ko&user=4gE_vYgAAAAJ"
+    - "https://scholar.google.com/citations?user=4gE_vYgAAAAJ"
 
 # Analytics
 analytics:
