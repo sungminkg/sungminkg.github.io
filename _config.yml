@@ -2,14 +2,14 @@
 
 # Basic Site Settings
 remote_theme: academicpages/academicpages.github.io
-locale                   : "en-US"
-title                    : "Sungmin Kang"
-title_separator          : "-"
-name                     : &name "Sungmin Kang"
-description              : &description ""
-url                      : https://sungminkg.github.io
-baseurl                  : ""
-repository               : "sungminkg/sungminkg.github.io"
+locale: "en-US"
+title: "Sungmin Kang"
+title_separator: "-"
+name: &name "Sungmin Kang"
+description: &description ""
+url: https://sungminkg.github.io
+baseurl: ""
+repository: "sungminkg/sungminkg.github.io"
 
 # Site Author
 author:
@@ -21,98 +21,72 @@ author:
   employer         : "University of Southern California"
   email            : "kangsung@usc.edu" 
   uri              : 
-  bitbucket        : 
-  codepen          : 
-  dribbble         : 
   github           : "sungminkg"
-  kaggle           : 
-  stackoverflow    : 
-  bluesky          : 
-  facebook         : 
-  flickr           : 
-  foursquare       : 
-  goodreads        : 
-  google_plus      : 
-  keybase          : 
-  instagram        : 
-  lastfm           : 
-  linkedin         :"www.linkedin.com/in/sungmin-kang-1999y64"
-  mastodon         : 
-  medium           : 
-  pinterest        : 
-  soundcloud       : 
-  steam            : 
-  telegram         : 
-  tumblr           : 
-  twitter          : 
-  vine             : 
-  weibo            : 
-  wikipedia        : 
-  xing             : 
-  youtube          : 
-  zhihu            : 
+  linkedin         : "https://www.linkedin.com/in/sungmin-kang-1999y64/"
 
 # Site Settings
-teaser                   :  
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled"
-talkmap_link             : false
+teaser:  
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: "disabled"
+talkmap_link: false
+
 comments:
-  provider               : 
+  provider: 
   disqus:
-    shortname            :
+    shortname: 
   discourse:
-    server               : 
+    server: 
   facebook:
-    appid                :
-    num_posts            : 
-    colorscheme          : 
+    appid: 
+    num_posts: 
+    colorscheme: 
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields: ['name', 'email', 'url', 'message']
+  branch: "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email: "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           : "iso8601"
+        format: "iso8601"
+
 atom_feed:
-  hide                   : false
-  path                   : 
+  hide: false
+  path: 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username: &twitter
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  
+  username:
+  app_id:
+  publisher:
+og_image:
 social:
-  type                   : 
-  name                   : 
-  links: 
+  type:
+  name:
+  links:
 
 # Analytics
 analytics:
-  provider               :  "false"
+  provider: "false"
   google:
-    tracking_id          :
+    tracking_id:
 
 # Reading Files
 include:
@@ -241,6 +215,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
