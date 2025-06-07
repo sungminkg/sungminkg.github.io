@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a 2nd year Master's student in Electrical and Computer Engineering at the University of Southern California. I work with [Professor Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty estimation in large language models (LLMs). My recent work focuses on evaluating uncertainty in open-ended generation without access to supporting documents, and expanding it to in-context scenarios involving retrieved or provided context. I also collaborate with [Professor Sunwoo Lee](https://sites.google.com/view/sunwoolee/home) on scalable machine learning systems—specifically, parameter-efficient fine-tuning and communication-efficient federated learning.
+Hi! I’m a 2nd year Master's student in Electrical and Computer Engineering at the University of Southern California. I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty estimation in large language models (LLMs). I also collaborate with [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home), focusing on scalable machine learning systems.
 
-My research centers on building trustworthy and scalable machine learning systems, with a particular focus on uncertainty estimation in LLM-generated answers and efficient model adaptation. I’m especially interested in bridging theory and practice—exploring how internal model signals such as gradients and attention maps can be leveraged to improve both the reliability and efficiency of modern machine learning systems. I am currently working on developing uncertainty estimation methods that are robust under distribution shifts, ensuring reliability even in out-of-domain or context-misaligned scenarios.
+My research centers on building (1) **trustworthy** and (2) **scalable** machine learning systems.
 
-Previously, I earned my B.S. in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea, where I worked with [Professor Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning.
+**1) Trustworthy Machine Learning**  
+I focus on uncertainty estimation in LLMs, especially under realistic and practical scenarios. My recent work explores uncertainty estimation in in-context generation—where the model is provided with or retrieves relevant documents—as well as open-ended settings without any external grounding. I am also investigating how to develop uncertainty estimation methods that remain reliable under distribution shifts and in out-of-domain conditions.
 
+**2) Scalable Machine Learning**  
+I study how to enhance learning scalability by leveraging and processing gradient signals. Specifically, I work on parameter-efficient fine-tuning methods that identify and train only the most relevant parameters using gradient-based importance scores. I have also explored ways to reduce communication costs in federated learning by utilizing gradient information more efficiently.
 
+I’m especially interested in bridging theory and practice—extracting and utilizing internal model signals such as gradients, attention maps, and token probabilities to improve the reliability, efficiency, and robustness of modern machine learning systems.
+
+Previously, I earned my B.S. in Electronic Engineering and Artificial Intelligence from Sogang University in South Korea, where I worked with [Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning, covering both algorithmic design and practical implementation.
 
 ---
 
