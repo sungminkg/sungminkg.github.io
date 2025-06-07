@@ -19,7 +19,7 @@ Besides machine learning, I enjoy playing tennis and soccer, and watching baseba
 
 ## 📰 News
 
-- **Jun 15, 2025** – Our paper _“Reconsidering Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ got accepted to **ACL 2025**! 🎉  
+- **Jun 15, 2025** – Our paper _“Reconsidering Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ got accepted to **ACL 2025** See you in Vienna! 🎉  
 - **Aug 26, 2024** – I am starting my M.S. degree at USC ECE! So excited!  
 - **Feb 20, 2024** – Graduated from Sogang University!  
 
@@ -33,7 +33,7 @@ M.S. in Electrical and Computer Engineering
 GPA: 4.00 / 4.00 – _MS Honors Fellow_
 
 **Sogang University, Seoul, Republic of Korea**  
-B.S. in Electronic Engineering, Minor in Artificial Intelligence  
+B.S. in Electronic Engineering, Micro-degree in Artificial Intelligence  
 *Mar. 2018 – Feb. 2024*  
 GPA: 3.91 / 4.3 – _Magna Cum Laude_
 
