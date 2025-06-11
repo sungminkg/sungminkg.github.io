@@ -1,7 +1,7 @@
 ---
 title: "Reconsidering LLM Uncertainty Estimation Methods in the Wild"
 collection: publications
-permalink: /publications/2024-llm-uncertainty
+permalink: /publications/2025-llm-uncertainty
 date: 2025-06-15
 venue: "Preprint"
 paperurl: "https://arxiv.org/abs/2401.12345"
