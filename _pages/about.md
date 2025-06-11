@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a 2nd-year Master's student in Electrical and Computer Engineering (Machine Learning and Data Science Track) at the University of Southern California. 
-
-I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty quantification in LLMs for reliable decision making. I also collaborate with [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home), focusing on parameter-efficient fine-tuning and federated learning. 
-
+Hi! I’m a 2nd-year Master's student in Electrical and Computer Engineering (Machine Learning and Data Science Track) at the University of Southern California.  
+<br>
+I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty quantification in LLMs for reliable decision making.  
+<br>
+I also collaborate with [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home), focusing on parameter-efficient fine-tuning and federated learning.  
+<br>
 Previously, I received my B.S. in Electronic Engineering from Sogang University, where I worked on federated learning and distributed optimization with [Hongseok Kim](https://nice.sogang.ac.kr/).
 
 ---
