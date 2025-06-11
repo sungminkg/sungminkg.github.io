@@ -2,7 +2,7 @@
 title: "Reconsidering LLM Uncertainty Estimation Methods in the Wild"
 collection: publications
 permalink: /publications/2025-llm-uncertainty
-date: 2025-06-15
+date: 2025-05-16
 venue: "ACL 2025"
 paperurl: "https://arxiv.org/abs/TBD"
 authors: "Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy"
