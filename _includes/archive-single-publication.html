@@ -1,25 +1,20 @@
 <div class="archive__item">
-  <h2 class="archive__item-title">
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
-    {% else %}
-      {{ post.title }}
+  <p>
+    {% if post.authors %}
+      <strong>{{ post.authors }}</strong>
     {% endif %}
-  </h2>
+    ({{ post.date | date: "%Y" }}). <em>{{ post.title }}</em>.
+    {% if post.venue %}
+      {{ post.venue }}.
+    {% endif %}
+  </p>
 
-  {% if post.authors %}
-    <p>{{ post.authors }}</p>
-  {% endif %}
-
-  {% if post.venue %}
-    <p><em>{{ post.venue }}</em></p>
-  {% endif %}
-
-  {% if post.excerpt %}
-    <p class="archive__item-excerpt">{{ post.excerpt }}</p>
-  {% endif %}
-
-  {% if post.paperurl %}
-    <p><a href="{{ post.paperurl }}" class="btn btn--small" target="_blank">�PDF</a></p>
-  {% endif %}
+  <p>
+    {% if post.paperurl %}
+      📄 <a href="{{ post.paperurl }}" target="_blank">PDF</a>
+    {% endif %}
+    {% if post.citeurl %}
+      &nbsp;&nbsp;🔖 <a href="{{ post.citeurl }}" target="_blank">Cite</a>
+    {% endif %}
+  </p>
 </div>
