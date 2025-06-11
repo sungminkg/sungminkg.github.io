@@ -1,9 +1,8 @@
 <div class="archive__item">
   <p>
     {% if post.authors %}
-      <strong>{{ post.authors }}
+      {{ post.authors }}
     {% endif %}
-    ({{ post.date | date: "%Y" }}). 
     <em>
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
@@ -12,7 +11,7 @@
       {% endif %}
     </em>.
     {% if post.venue %}
-      {{ post.venue }}.
+      <strong>{{ post.venue }}</strong>.
     {% endif %}
   </p>
 </div>
