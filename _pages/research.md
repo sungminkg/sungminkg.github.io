@@ -16,3 +16,17 @@ I study how to enhance efficiency in the learning process by leveraging gradient
 
 
 Previously, I earned my B.S. in Electronic Engineering from Sogang University in South Korea, where I worked with [Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning, covering both algorithmic design and practical implementation.
+
+
+---
+
+## 🌱 Ongoing Research (Coming soon!)
+
+**Scale-Aware and Distribution-Sensitive Fine-Tuning**  
+A parameter scale-aware and layer distribution-sensitive parameter-efficient fine-tuning framework
+
+**In-Context Uncertainty Estimation**  
+Uncertainty Quantification on knowledge conflict scenarios
+
+**Foundational Modeling for AC-OPF with Federated Learning**  
+Building a foundational GNN-based model for solving AC Optimal Power Flow (AC-OPF) problems using federated learning
