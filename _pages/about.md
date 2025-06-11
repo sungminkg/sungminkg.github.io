@@ -17,11 +17,12 @@ Previously, I received my B.S. in Electronic Engineering from Sogang University,
 
 ---
 
-
 ## 📰 News
 
-- **Jun 15, 2025** – Our paper _“Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ was accepted to **ACL 2025**! See you in Vienna! 🎉  
-- **Aug 26, 2024** – I started my M.S. in Electrical and Computer Engineering at USC. Excited for the journey ahead!  
+- **Jun 15, 2025** – Our paper _“Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ was accepted to **ACL 2025**! See you in Vienna! 🎉
+- **May 02, 2025** – Our library for assessing the truthfulness of LLMs, [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), officially released!
+- **Aug 26, 2024** – I started my M.S. in Electrical and Computer Engineering at USC. Excited for the journey ahead!
+- **May 22, 2024** - I gave a talk at Sogang University about Federated Learning using TCP socket communication.
 - **Feb 20, 2024** – I graduated from Sogang University with a B.S. in Electronic Engineering!
 
 ---
