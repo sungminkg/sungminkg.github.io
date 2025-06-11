@@ -1,0 +1,21 @@
+<div class="archive__item">
+  <h2 class="archive__item-title">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h2>
+
+  {% if post.authors %}
+    <p>{{ post.authors }}</p>
+  {% endif %}
+
+  {% if post.venue %}
+    <p><em>{{ post.venue }}</em></p>
+  {% endif %}
+
+  {% if post.paperurl %}
+    <p><a href="{{ post.paperurl }}" class="btn btn--small" target="_blank">📄 arXiv PDF</a></p>
+  {% endif %}
+</div>
