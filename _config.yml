@@ -64,6 +64,29 @@ atom_feed:
   hide: false
   path: 
 
+
+# Collections
+collections:
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+    
+
 # SEO Related
 google_site_verification:
 bing_site_verification:
@@ -144,27 +167,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Collections
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /publications/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
