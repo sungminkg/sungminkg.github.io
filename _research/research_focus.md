@@ -1,9 +1,3 @@
----
-permalink: /research/
-title: "Research"
-author_profile: true
----
-
 ## 🔬 Research Focus
 
 My research centers on building (1) **trustworthy** and (2) **scalable** machine learning systems.
