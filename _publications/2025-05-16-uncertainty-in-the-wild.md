@@ -9,4 +9,4 @@ authors: "Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp 
 ---
 
 Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy (2025)  
-ACL 2025 [<a href="https://arxiv.org/abs/TBD" target="_blank">PDF</a>]
+ACL 2025 [📄 [PDF](https://arxiv.org/abs/TBD)]
