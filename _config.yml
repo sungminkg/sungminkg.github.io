@@ -162,6 +162,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
