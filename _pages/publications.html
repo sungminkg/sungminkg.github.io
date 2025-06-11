@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p>DEBUG: {{ site.publications | size }} items found.</p>
+<ul>
+  {% for post in site.publications %}
+    <li>{{ post.title }}</li>
+  {% endfor %}
+</ul>
+
+
 <p>You can also find my articles on 
   <a href="https://scholar.google.com/citations?user=4gE_vYgAAAAJ" target="_blank">
     my Google Scholar profile
