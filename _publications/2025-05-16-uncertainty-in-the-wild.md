@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Reconsidering LLM Uncertainty Estimation Methods in the Wild"
 collection: publications
 permalink: /publications/2025-05-16-uncertainty-in-the-wild
