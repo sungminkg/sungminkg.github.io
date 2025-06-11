@@ -3,18 +3,16 @@
     {% if post.authors %}
       <strong>{{ post.authors }}</strong>
     {% endif %}
-    ({{ post.date | date: "%Y" }}). <em>{{ post.title }}</em>.
+    ({{ post.date | date: "%Y" }}). 
+    <em>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </em>.
     {% if post.venue %}
       {{ post.venue }}.
-    {% endif %}
-  </p>
-
-  <p>
-    {% if post.paperurl %}
-      📄 <a href="{{ post.paperurl }}" target="_blank">PDF</a>
-    {% endif %}
-    {% if post.citeurl %}
-      &nbsp;&nbsp;🔖 <a href="{{ post.citeurl }}" target="_blank">Cite</a>
     {% endif %}
   </p>
 </div>
