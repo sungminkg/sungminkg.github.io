@@ -15,7 +15,7 @@ I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](
 
 ## 📰 News
 
-- **Jun 15, 2025** – Our paper _“Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ was accepted to **ACL 2025**! See you in Vienna! 🎉
+- **May 16, 2025** – Our paper _“Reconsidering LLM Uncertainty Estimation Methods in the Wild”_ was accepted to **ACL 2025**! See you in Vienna! 🎉
 - **May 02, 2025** – Our library for assessing the truthfulness of LLMs, [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), officially released!
 - **Aug 26, 2024** – I started my M.S. in Electrical and Computer Engineering at USC. Excited for the journey ahead!
 - **May 22, 2024** - I gave a talk at Sogang University about Federated Learning using TCP socket communication.
