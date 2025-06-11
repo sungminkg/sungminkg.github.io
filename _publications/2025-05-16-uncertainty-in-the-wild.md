@@ -1,7 +1,7 @@
 ---
 title: "Reconsidering LLM Uncertainty Estimation Methods in the Wild"
 collection: publications
-permalink: /publications/2025-llm-uncertainty
+permalink: /publications/2025-uncertainty-in-the-wild
 date: 2025-05-16
 venue: "ACL 2025"
 paperurl: "https://arxiv.org/abs/TBD"
