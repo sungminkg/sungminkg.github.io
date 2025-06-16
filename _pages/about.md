@@ -15,7 +15,7 @@ I work with [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](
 
 ## 📰 News
 
-- **May 16, 2025** – Our paper “Reconsidering LLM Uncertainty Estimation Methods in the Wild” was accepted to ACL 2025! I’ll be presenting it in Vienna — see you there! 🎉
+- **May 16, 2025** – Our paper “Reconsidering LLM Uncertainty Estimation Methods in the Wild” was accepted to **ACL 2025**! I’ll be presenting it in Vienna — see you there! 🎉
 - **May 05, 2025** – I attended the **ATHENA AI Summit 2025** — “Big AI for Small Devices” — at Duke University. It was a great opportunity to connect with distinguished faculty members and leading researchers in the field!
 - **May 02, 2025** – Our library for assessing the truthfulness of LLMs, [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), officially released!
 - **May 02, 2025** – I attended the **USC-Amazon Center Annual Symposium** at USC. It was inspiring to explore recent advances in AI agents, reasoning, and trustworthy machine learning.
