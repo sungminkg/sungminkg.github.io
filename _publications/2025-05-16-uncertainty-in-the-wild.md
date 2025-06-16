@@ -10,5 +10,5 @@ authors: "📄 Yavuz Bakman, Duygu Nur Yaldiz, <strong>Sungmin Kang</strong>, Tu
 ---
 
 📄 Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy,   
-*[_Reconsidering LLM Uncertainty Estimation Methods in the Wild_](https://arxiv.org/pdf/2506.01113)*  
+*[_Reconsidering LLM Uncertainty Estimation Methods in the Wild_](https://arxiv.org/pdf/2506.01114)*  
 **ACL 2025**
