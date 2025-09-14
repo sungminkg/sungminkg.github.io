@@ -19,7 +19,7 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 
 ## 📰 News
 
-- **Sep 10, 2025** – Our [**TruthTorchLM**](https://arxiv.org/abs/2507.08203) paper got accepted to **EMNLP 2025 System Demonstrations**! 🎉
+- **Sep 10, 2025** – Our [*TruthTorchLM*](https://arxiv.org/abs/2507.08203) paper got accepted to **EMNLP 2025 System Demonstrations**! 🎉
 - **Jul 30, 2025** - I presented our paper, [*“Reconsidering LLM Uncertainty Estimation Methods in the Wild”*](https://arxiv.org/abs/2506.01114) at **ACL 2025**!
 - **May 16, 2025** – Our paper [*“Reconsidering LLM Uncertainty Estimation Methods in the Wild”*](https://arxiv.org/abs/2506.01114) was accepted to **ACL 2025**! 🎉
 - **May 05, 2025** – I attended the **ATHENA AI Summit 2025** — “Big AI for Small Devices” — at Duke University. It was a great opportunity to connect with distinguished faculty members and leading researchers in the field!
