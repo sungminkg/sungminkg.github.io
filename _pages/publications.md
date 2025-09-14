@@ -24,7 +24,7 @@ author_profile: true
 
 - **Uncertainty Quantification in Generative LLMs: Methods and Applications for Hallucination Detection**  
   ***Sungmin Kang**, Duygu NurYaldiz, Yavuz Faruk Bakman, Baturalp Buyukates, Salman Avestimehr*  
-  Preprint
+  *Preprint*
   
 
 ### 2025  
