@@ -1,0 +1,14 @@
+---
+layout: publication
+title: "GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation"
+collection: publications
+permalink: /publications/2025-08-22-GEM
+date: 2025-08-22
+venue: "preprint"
+paperurl: "https://arxiv.org/abs/2503.11146"
+authors: "📄 <strong>Sungmin Kang</strong>, Jisoo Kim, Salman Avestimehr, Sunwoo Lee"
+---
+
+📄 <strong>Sungmin Kang</strong>, Jisoo Kim, Salman Avestimehr, Sunwoo Lee, 
+*[_GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation_](https://arxiv.org/abs/2503.11146)*  
+**preprint**
