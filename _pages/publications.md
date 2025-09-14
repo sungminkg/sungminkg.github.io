@@ -30,11 +30,11 @@ author_profile: true
 ### 2025  
 
 - **TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**  
-  *Duygu Nur Yaldiz, Yavuz Faruk Bakman, **Sungmin Kang**, Alperen Öziş, Hayrettin Eren Yildiz, Mitash Ashish Shah, Zhiqi Huang, Anoop Kumar, Alfy Samuel, Daben Liu, Sai Praneeth Karimireddy, Salman Avestimehr*
+  *Duygu Nur Yaldiz\*, Yavuz Faruk Bakman\*, **Sungmin Kang**, Alperen Öziş, Hayrettin Eren Yildiz, Mitash Ashish Shah, Zhiqi Huang, Anoop Kumar, Alfy Samuel, Daben Liu, Sai Praneeth Karimireddy, Salman Avestimehr*
   **EMNLP 2025 System Demonstrations**
   [[Paper](https://arxiv.org/abs/2507.08203)] [[Code](https://github.com/Ybakman/TruthTorchLM)]
 
 - **Reconsidering LLM Uncertainty Estimation Methods in the Wild**  
-  *Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy*  
+  *Yavuz Faruk Bakman\*, Duygu Nur Yaldiz\*, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy*  
   **ACL 2025**
   [[Paper](https://arxiv.org/abs/2506.01114)]
