@@ -21,7 +21,7 @@ Representative papers:
 Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I study how gradient information can be used to prioritize important parameters for **task adaptation** and how gradients can be recycled to reduce communication costs in **federated learning**. Furthermore, I aim to develop adaptive update strategies to **mitigate client drift**, thereby improving global generalization in decentralized training while maintaining efficiency.
 
 Representative papers:  
-- [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://www.arxiv.org/abs/2503.11146), preprint – Proposed a gradient-to-weight ratio and entropy-based masking method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters.  
+- [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://arxiv.org/abs/2508.16191), preprint – Proposed a gradient-to-weight ratio and entropy-based masking method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters.  
 - [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), preprint – Developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy.  
 
 ---
