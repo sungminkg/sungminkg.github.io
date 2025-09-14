@@ -17,8 +17,8 @@ I am particularly interested in **uncertainty quantification (UQ)** for LLMs, ai
 - **Applications**: hallucination detection and uncertainty-aware adaptive guidance for reasoning in LLMs.  
 
 Representative papers:  
-- [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), ACL 2025 – Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
-- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203) – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
+- [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** – Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
+- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025** – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
 
 **2) Efficient and Adaptive Machine Learning**  
 Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **adaptive** by exploiting signal-driven methods. My interests include:  
