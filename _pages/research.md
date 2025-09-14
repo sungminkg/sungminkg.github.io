@@ -17,9 +17,6 @@ Representative papers:
 - [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025** – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
 
 **2) Efficient and Scalable Machine Learning**  
-Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** by exploiting signal-driven methods(by using learning signals such as gradients). In particular, I study how gradient signals can be used to prioritize important parameters for **task adaptation**, and recycle gradient to reduce communication cost in federated learning.  Furthermore, I aim to develop strategies to **mitigate client drift** by (adaptive가 될 수도 있고, 뭐가 들어가면 좋을까?) to improve global generalization in decentralized training, while maintaining efficiency.
-
-**2) Efficient and Scalable Machine Learning**  
 Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I study how gradient information can be used to prioritize important parameters for **task adaptation** and how gradients can be recycled to reduce communication costs in **federated learning**. Furthermore, I aim to develop adaptive update strategies to **mitigate client drift**, thereby improving global generalization in decentralized training while maintaining efficiency.
 
 Representative papers:  
