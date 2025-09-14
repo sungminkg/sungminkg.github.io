@@ -16,6 +16,7 @@ Representative papers:
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** – Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
 - [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025** – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
 
+
 **2) Efficient and Scalable Machine Learning**  
 Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I study how gradient information can be used to prioritize important parameters for **task adaptation** and how gradients can be recycled to reduce communication costs in **federated learning**. Furthermore, I aim to develop adaptive update strategies to **mitigate client drift**, thereby improving global generalization in decentralized training while maintaining efficiency.
 
