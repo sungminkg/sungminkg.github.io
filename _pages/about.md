@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a 2nd-year Master's student in Electrical Engineering at the University of Southern California. **I am applying for Ph.D. programs in Fall 2026 and actively seeking opportunities!**
+Hi! I’m a 2nd-year Master's student in Electrical Engineering at the University of Southern California, advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). I also collaborate with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). Previously, I received my B.S. in Electronic Engineering from Sogang University, where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
+
+**I am applying for Ph.D. programs in Fall 2026 and actively seeking opportunities!**
 
 <br>
-I work with Prof. [Salman Avestimehr](https://www.avestimehr.com/) in the [vITAL Lab](https://www.avestimehr.com/vital-lab), where I study uncertainty quantification in LLMs for reliable decision making. I also collaborate with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home), focusing on parameter-efficient fine-tuning and communication-efficient federated learning. Previously, I received my B.S. in Electronic Engineering from Sogang University, where I worked on federated learning and distributed optimization with [Hongseok Kim](https://nice.sogang.ac.kr/).
+
+My research focuses on building trustworthy and scalable machine learning systems. I work on uncertainty estimation in large language models to enable reliable decision making, and on parameter-efficient fine-tuning and federated learning methods that improve the scalability and efficiency of model adaptation. Broadly, I am interested in developing methods that balance robustness, efficiency, and practicality in real-world applications
 
 ---
 
