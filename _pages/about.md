@@ -19,9 +19,9 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 
 ## 📰 News
 
-- **Sep 10, 2025** – Our paper “TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs” was accepted to **EMNLP 2025 System Demonstrations**! 🎉
-- **Jul 30, 2025** - I presented our paper, “Reconsidering LLM Uncertainty Estimation Methods in the Wild” at **ACL 2025**!
-- **May 16, 2025** – Our paper “Reconsidering LLM Uncertainty Estimation Methods in the Wild” was accepted to **ACL 2025**! 🎉
+- **Sep 10, 2025** – Our paper [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM) paper got accepted to **EMNLP 2025 System Demonstrations**! 🎉
+- **Jul 30, 2025** - I presented our paper, *“Reconsidering LLM Uncertainty Estimation Methods in the Wild”* at **ACL 2025**!
+- **May 16, 2025** – Our paper *“Reconsidering LLM Uncertainty Estimation Methods in the Wild”* was accepted to **ACL 2025**! 🎉
 - **May 05, 2025** – I attended the **ATHENA AI Summit 2025** — “Big AI for Small Devices” — at Duke University. It was a great opportunity to connect with distinguished faculty members and leading researchers in the field!
 - **May 02, 2025** – Our library for assessing the truthfulness of LLMs, [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), officially released!
 - **May 02, 2025** – I attended the **USC-Amazon Center Annual Symposium** at USC. It was inspiring to explore recent advances in AI agents, reasoning, and trustworthy machine learning.
