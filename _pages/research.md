@@ -7,31 +7,26 @@ author_profile: true
 
 ## 🔬 Research Interest  
 
-My research focuses on building **trustworthy** and **scalable** machine learning systems, with applications to large language models (LLMs) and distributed learning.  
+My research focuses on building **trustworthy** and **scalable** machine learning systems, with applications to large language models (LLMs) and decentralized learning.  
 
 **1) Trustworthy Machine Learning**  
-I am particularly interested in **uncertainty quantification (UQ)** for LLMs, aiming to improve interpretability and reliability. My interests include:  
-- **Knowledge conflict**: quantifying uncertainty when contextual information contradicts parametric knowledge.  
-- **Interpretability**: leveraging hidden representations and attention maps for UQ and explanation.  
-- **Robustness**: addressing domain shifts and distributional changes.  
-- **Applications**: hallucination detection and uncertainty-aware adaptive guidance for reasoning in LLMs.  
+My primary research interest lies in **uncertainty quantification (UQ)** for LLM-generated answers, with the goal of improving both **reliability** and **interpretability**. In particular, I am interested in studying how uncertainty can capture **knowledge conflict**, when contextual information contradicts the model’s parametric knowledge. I am also excited about exploring interpretability by leveraging hidden representations and attention maps to better understand model behavior and support UQ. Another important direction of UQ is **robustness**, where I aim to design UQ methods that perform well under domain shifts and across specialized tasks such as legal, financial, and medical documents. Finally, I aim to extend UQ to **practical applications**, including hallucination detection and the development of uncertainty-aware guidance strategies to improve reasoning in LLMs.
 
 Representative papers:  
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** – Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
 - [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025** – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
 
-**2) Efficient and Adaptive Machine Learning**  
-Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **adaptive** by exploiting signal-driven methods. My interests include:  
-- **Learning with gradient signals**: improving generalization and reducing cost via parameter selection based on gradient-to-weight ratios.  
-- **Reducing communication/computation**: designing scalable algorithms for federated and distributed learning.  
-- **Mitigating client drift**: leveraging adaptive update strategies to stabilize decentralized training.  
+**2) Efficient and Scalable Machine Learning**  
+Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** by exploiting signal-driven methods(by using learning signals such as gradients). In particular, I study how gradient signals can be used to prioritize important parameters for **task adaptation**, and recycle gradient to reduce communication cost in federated learning.  Furthermore, I aim to develop strategies to **mitigate client drift** by (adaptive가 될 수도 있고, 뭐가 들어가면 좋을까?) to improve global generalization in decentralized training, while maintaining efficiency.
+
+**2) Efficient and Scalable Machine Learning**  
+Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I study how gradient information can be used to prioritize important parameters for **task adaptation** and how gradients can be recycled to reduce communication costs in **federated learning**. Furthermore, I aim to develop adaptive update strategies to **mitigate client drift**, thereby improving global generalization in decentralized training while maintaining efficiency.
 
 Representative papers:  
 - [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://www.arxiv.org/abs/2503.11146), preprint – Proposed a gradient-to-weight ratio and entropy-based masking method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters.  
 - [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), preprint – Developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy.  
 
-
-
+---
 
 
 
