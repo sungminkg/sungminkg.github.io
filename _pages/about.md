@@ -11,7 +11,8 @@ Hi! I’m a 2nd-year Master's student in Electrical Engineering at the Universit
 
 **I am applying for Ph.D. programs in Fall 2026 and actively seeking opportunities!**
 
-My research focuses on building trustworthy and scalable machine learning systems. I work on uncertainty quantification in large language models to enable reliable decision making, and on parameter-efficient fine-tuning and federated learning methods that improve the scalability and efficiency of model adaptation. Broadly, I am interested in developing methods that balance robustness, interpretability, efficiency, and practicality in real-world applications. You can find my specific research interest in the [Research](https://sungminkg.github.io/research/) section.
+My research focuses on building **trustworthy** and **scalable** machine learning systems. I work on uncertainty quantification in large language models to enable reliable decision making, and on parameter-efficient fine-tuning and federated learning methods that improve the scalability and efficiency of model adaptation. Broadly, I am interested in developing methods that balance robustness, interpretability, efficiency, and practicality in real-world applications. 
+You can find my specific research interest in the [Research](https://sungminkg.github.io/research/) section.
 
 ---
 
@@ -33,7 +34,7 @@ My research focuses on building trustworthy and scalable machine learning system
 ## 🎓 Education
 
 **University of Southern California (USC), Los Angeles, USA**  
-M.S. in Electrical and Computer Engineering  
+M.S. in Electrical Engineering  
 *Aug. 2024 – May. 2026 (Expected)*  
 GPA: 4.00 / 4.00 – _MS Honors Fellow_
 
