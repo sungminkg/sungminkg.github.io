@@ -4,22 +4,39 @@ title: "Research"
 author_profile: true
 ---
 
-## 🔬 Research Focus
 
-My research centers on building (1) **trustworthy** and (2) **scalable** machine learning systems.
+## 🔬 Research Interest  
+
+My research focuses on building **trustworthy** and **scalable** machine learning systems, with applications to large language models (LLMs) and distributed learning.  
 
 **1) Trustworthy Machine Learning**  
-I am particularly interested in **uncertainty estimation** in LLMs. My recent work — [“Reconsidering LLM Uncertainty Estimation Methods in the Wild”](https://arxiv.org/pdf/2506.01114) — focuses on quantifying the uncertainty of LLM generations in realistic scenarios. I am currently exploring how **knowledge conflict** affects model uncertainty, specifically when the parametric knowledge contradicts the contextual knowledge provided in the prompt.
+I am particularly interested in **uncertainty quantification (UQ)** for LLMs, aiming to improve interpretability and reliability. My interests include:  
+- **Knowledge conflict**: quantifying uncertainty when contextual information contradicts parametric knowledge.  
+- **Interpretability**: leveraging hidden representations and attention maps for UQ and explanation.  
+- **Robustness**: addressing domain shifts and distributional changes.  
+- **Applications**: hallucination detection and uncertainty-aware adaptive guidance for reasoning in LLMs.  
 
-**2) Scalable Machine Learning**  
-I study how to enhance efficiency in the learning process by leveraging gradient signals. My recent work proposes a **parameter-efficient fine-tuning** method that identifies and updates only the most important parameters, assessed by gradient-based signals. Furthermore, I have been doing research on reducing communication costs in **federated learning** by recycling gradient information [(paper)](https://arxiv.org/abs/2503.11146).
+Representative papers:  
+- [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), ACL 2025 – Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
+- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203) – Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.  
+
+**2) Efficient and Adaptive Machine Learning**  
+Beyond trustworthiness, I am also interested in making learning systems more **efficient** and **adaptive** by exploiting signal-driven methods. My interests include:  
+- **Learning with gradient signals**: improving generalization and reducing cost via parameter selection based on gradient-to-weight ratios.  
+- **Reducing communication/computation**: designing scalable algorithms for federated and distributed learning.  
+- **Mitigating client drift**: leveraging adaptive update strategies to stabilize decentralized training.  
+
+Representative papers:  
+- [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://www.arxiv.org/abs/2503.11146), preprint – Proposed a gradient-to-weight ratio and entropy-based masking method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters.  
+- [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), preprint – Developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy.  
 
 
-Previously, I earned my B.S. in Electronic Engineering from Sogang University in South Korea, where I worked with [Hongseok Kim](https://nice.sogang.ac.kr/) on distributed optimization and federated learning, covering both algorithmic design and practical implementation.
 
 
+
+
+<!--
 ---
-
 ## 🌱 Ongoing Research (Coming soon!)
 
 **Scale-Aware and Distribution-Sensitive Fine-Tuning**  
@@ -30,3 +47,4 @@ Uncertainty Quantification on knowledge conflict scenarios
 
 **Foundational Modeling for AC-OPF with Federated Learning**  
 Building a foundational GNN-based model for solving AC Optimal Power Flow (AC-OPF) problems using federated learning
+-->
