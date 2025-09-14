@@ -13,12 +13,28 @@ author_profile: true
 
 ## 📄 Publications  
 
+### Preprints
+  - **GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation**  
+  ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*  
+  [[Paper](https://arxiv.org/abs/2508.16191)]
+
+- **Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**  
+  *Jisoo Kim, **Sungmin Kang**, Sunwoo Lee*  
+  [[Paper](https://arxiv.org/abs/2503.11146)]
+
+- **Uncertainty Quantification in Generative LLMs: Methods and Applications for Hallucination Detection**  
+  ***Sungmin Kang**, Duygu NurYaldiz, Yavuz Faruk Bakman, Baturalp Buyukates, Salman Avestimehr*  
+  Preprint
+  
+
+### 2025  
+
 - **TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**  
-  *Sungmin Kang, Yavuz Faruk Bakman, et al.*  
-  *EMNLP 2025 (System Demonstrations)*  
+  *Duygu Nur Yaldiz, Yavuz Faruk Bakman, **Sungmin Kang**, Alperen Öziş, Hayrettin Eren Yildiz, Mitash Ashish Shah, Zhiqi Huang, Anoop Kumar, Alfy Samuel, Daben Liu, Sai Praneeth Karimireddy, Salman Avestimehr*
+  **EMNLP 2025 System Demonstrations**
   [[Paper](https://arxiv.org/abs/2507.08203)] [[Code](https://github.com/Ybakman/TruthTorchLM)]
 
 - **Reconsidering LLM Uncertainty Estimation Methods in the Wild**  
-  *Sungmin Kang, Yavuz Faruk Bakman, et al.*  
-  *ACL 2025*  
+  *Yavuz Bakman, Duygu Nur Yaldiz, **Sungmin Kang**, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy*  
+  **ACL 2025**
   [[Paper](https://arxiv.org/abs/2506.01114)]
