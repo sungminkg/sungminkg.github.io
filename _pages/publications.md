@@ -18,16 +18,20 @@ author_profile: true
   ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*  
   [[Paper](https://arxiv.org/abs/2508.16191)]
 
-- **Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**  
-  *Jisoo Kim, **Sungmin Kang**, Sunwoo Lee*  
-  [[Paper](https://arxiv.org/abs/2503.11146)]
+- **Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering**
+  *Yavuz Faruk Bakman, **Sungmin Kang**, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel´em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy*
+  *Preprint*
 
 - **Uncertainty Quantification in Generative LLMs: Methods and Applications for Hallucination Detection**  
-  ***Sungmin Kang**, Duygu NurYaldiz, Yavuz Faruk Bakman, Baturalp Buyukates, Salman Avestimehr*  
+  ***Sungmin Kang**, Duygu Nur Yaldiz, Yavuz Faruk Bakman, Baturalp Buyukates, Salman Avestimehr*  
   *Preprint*
   
 
 ### 2025  
+- **Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**  
+  *Jisoo Kim, **Sungmin Kang**, Sunwoo Lee*
+  **NeurIPS 2025**
+  [[Paper](https://arxiv.org/abs/2503.11146)]
 
 - **TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs**  
   *Duygu Nur Yaldiz\*, Yavuz Faruk Bakman\*, **Sungmin Kang**, Alperen Öziş, Hayrettin Eren Yildiz, Mitash Ashish Shah, Zhiqi Huang, Anoop Kumar, Alfy Samuel, Daben Liu, Sai Praneeth Karimireddy, Salman Avestimehr*  
