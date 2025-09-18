@@ -29,7 +29,7 @@ author_profile: true
 
 ### 2025  
 - **Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**  
-  *Jisoo Kim, **Sungmin Kang**, Sunwoo Lee*
+  *Jisoo Kim, **Sungmin Kang**, Sunwoo Lee*  
   **NeurIPS 2025**
   [[Paper](https://arxiv.org/abs/2503.11146)]
 
