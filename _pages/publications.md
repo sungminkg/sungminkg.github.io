@@ -20,11 +20,11 @@ author_profile: true
 
 - **Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering**  
   *Yavuz Faruk Bakman, **Sungmin Kang**, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel´em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy*  
-  *Preprint*
+  *Under Review*
 
 - **Uncertainty Quantification in Generative LLMs: Methods and Applications for Hallucination Detection**  
   ***Sungmin Kang**, Duygu Nur Yaldiz, Yavuz Faruk Bakman, Baturalp Buyukates, Salman Avestimehr*  
-  *Preprint*
+  *Under Review*
   
 
 ### 2025  
