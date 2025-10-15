@@ -19,7 +19,7 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 
 ## 📰 News
 
-- **Sep 18, 2025** - Our survey paper [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040) is released!
+- **Oct 15, 2025** - Our survey paper [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040) is released!
 - **Sep 18, 2025** - Our paper [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://arxiv.org/abs/2503.11146) got accepted to **NeurIPS 2025**! 🎉
 - **Sep 10, 2025** – Our [*TruthTorchLM*](https://arxiv.org/abs/2507.08203) paper got accepted to **EMNLP 2025 System Demonstrations**! 🎉
 - **Jul 30, 2025** - I presented our paper, *“Reconsidering LLM Uncertainty Estimation Methods in the Wild”* at **ACL 2025**!
