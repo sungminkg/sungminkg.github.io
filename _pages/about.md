@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a 2nd-year Master's student in Electrical Engineering at the University of Southern California, advised by Prof. [Salman Avestimehr](https://www.avestimehr.com/). I also collaborate with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). Previously, I received my B.S. in Electronic Engineering from Sogang University, where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
+Hi! I’m a 2nd-year Master's student in Electrical Engineering at the University of Southern California, working closely with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org). I also collaborate with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). Previously, I received my B.S. in Electronic Engineering from Sogang University, where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
 
 <ins>**I am applying for Fall 2026 Ph.D. programs, actively seeking opportunities!**</ins>
 
