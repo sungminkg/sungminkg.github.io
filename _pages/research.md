@@ -23,10 +23,10 @@ Multimodal models integrate diverse information sources such as text, image, aud
 
 **1) Trustworthy Machine Learning**  
 I have primarily worked on **uncertainty quantification** for LLM-generated answers. I have 
-– Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
-– Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.
-- A comprehensive overview of LLM uncertainty quantification, and how it can be used to understand and detect hallucinations in LLMs.
--Proposed a UQ method for contextual QA that measures feature gaps along honesty, contextual reliance, and context comprehension via contrastive prompts and representation analysis.
+Explored the behavior of LLM uncertainty estimation methods across threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness.  
+Released [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 30+ truthfulness prediction methods with unified evaluation, calibration, and long-form claim-level assessment.
+A comprehensive overview of LLM uncertainty quantification, and how it can be used to understand and detect hallucinations in LLMs.
+Proposed a UQ method for contextual QA that measures feature gaps along honesty, contextual reliance, and context comprehension via contrastive prompts and representation analysis.
 
 Selected Papers:
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** 
