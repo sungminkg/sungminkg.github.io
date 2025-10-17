@@ -11,7 +11,7 @@ Hi! I’m a 2nd-year Master's student in Electrical Engineering at the Universit
 
 <ins>**I am applying for Fall 2026 Ph.D. programs, actively seeking opportunities!**</ins>
 
-My research focuses on building **trustworthy** and **scalable** machine learning systems. I work on uncertainty quantification in large language models to enable reliable decision making, and on parameter-efficient fine-tuning and federated learning methods that improve the scalability and efficiency of model adaptation. Broadly, I am interested in developing methods that balance robustness, interpretability, efficiency, and practicality in real-world applications. 
+My research focuses on building **trustworthy** LLMs. I mainly work on **uncertainty quantification** in LLMs for reliable decision-making. Moving forward, I aim to extend my research in **reasoning** and **interpretability**, to better understand the internal mechanisms of large models and leverage these insights to enhance their reliability and safety. I am also interested in advancing these directions toward multi-modal and multi-agent systems, with the long-term goal of developing trustworthy agents that can operate safely and transparently in the real world. Besides, I have research experience in federated learning and parameter-efficient fine-tuning.
 
 You can find my specific research interest in the [Research](https://sungminkg.github.io/research/) section.
 
