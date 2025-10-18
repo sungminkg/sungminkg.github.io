@@ -15,8 +15,8 @@ LLMs often rely on external retrieval systems or internet search to supplement t
 **2) Trustworthy Multi-Agent Reasoning**  
 Multi-agent collaboration offers a promising way to enhance reasoning and decision reliability by enabling models to interact, debate, and verify one another’s responses. I aim to explore uncertainty-aware guidance strategies that allow multiple agents to reason collectively and generate safe and interpretable answers. Ultimately, I seek to design trustworthy agent systems that can operate in high-stakes domains, capable of abstaining from answers when uncertain, performing self-evaluation, and engaging in dynamic, context-aware reasoning.
 
-**3) Trustworthiness in Multimodal Models**  
-Multimodal models integrate diverse information sources such as text, image, audio, and video, yet it is difficult to trace where uncertainty originates and how it propagates across modalities. I am interested in understanding how confidence arises within these systems and how different modalities contribute to final predictions. By decomposing multimodal representations and analyzing hidden activations and attention maps, I aim to improve the interpretability and reliability of multimodal reasoning systems. 
+**3) Trustworthiness in Multi-modal Models**  
+Multi-modal models integrate diverse information sources such as text, image, audio, and video, yet it is difficult to trace where uncertainty originates and how it propagates across modalities. I am interested in understanding how confidence arises within these systems and how different modalities contribute to final predictions. By decomposing multi-modal representations and analyzing hidden activations and attention maps, I aim to improve the interpretability and reliability of multi-modal reasoning systems. 
 
 
 ## 🔬 Research Experiences
