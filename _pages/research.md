@@ -26,18 +26,20 @@ I have primarily worked on **uncertainty quantification** for LLM-generated answ
 
 Selected Papers:
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** 
-- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025** 
+- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025**
+- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), *preprint* 
 - [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040), *preprint*
-- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), *preprint*
+
 
 <br>
 
 **2) Efficient and Scalable Machine Learning**  
-I have worked in making machine learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I introduced the use of the gradient-to-weight ratio as a measure to interpret how much each layer or parameter has learned relative to its weight. I proposed using a gradient-to-weight ratio and entropy-based masking method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters. In addition, I developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy. 
+I have worked in making machine learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I introduced the use of the gradient-to-weight ratio as a measure to interpret how much each layer or parameter has learned relative to its weight. I proposed using a gradient-to-weight ratio and entropy-based masking fine-tuning method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters. In addition, I developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy. 
 
 Selected Papers:  
-- [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), **NeurIPS 2025**
 - [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://arxiv.org/abs/2508.16191), *preprint*
+- [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), **NeurIPS 2025**
+
 
 ---
 
