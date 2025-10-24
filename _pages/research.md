@@ -18,7 +18,7 @@ Multi-agent collaboration offers a promising way to enhance reasoning and decisi
 **3) Trustworthiness in Multi-modal Models**  
 Multi-modal models integrate information from diverse sources such as text, image, audio, and video, yet the origin and propagation of uncertainty across modalities remain poorly understood. I am interested in identifying how cross-modal alignment errors, modality conflicts, and representation entanglement affect model confidence and decision reliability. My goal is to disentangle modality-specific uncertainties and design trustworthy fusion mechanisms that adaptively combine reliable signals, enabling transparent and reliable decision-making in real-world scenarios.
 
-**4) Data-Centric Trustworthiness**
+**4) Data-Centric Trustworthiness**  
 While model-level reliability has been the primary focus of trustworthy LLM research, data quality and representativeness fundamentally determine a model’s ability to make reliable predictions. In particular, it is known that models often hallucinate because of the way they are trained—the learning process, typically supervised or reward-driven, tends to encourage models to produce answers rather than to abstain, even when the answer is potentially wrong. Therefore, I am  interested in a data-centric approach that studies how dataset characteristics shape their reliability and how to design better dataset for trustworthy generations. My goal is to analyze how models internalize data biases or spurious correlations and to develop data curation, filtering, and synthetic dataset generation strategies, combined with effective post-training, to mitigate these effects and enhance overall reliability.
 
 
