@@ -19,6 +19,7 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 
 ## 📰 News
 
+- **Oct 31, 2025** - Honored to receive the Best Poster Award 🏆 at the USC ECE 15th Annual Research Festival, among 110 participating teams!
 - **Oct 15, 2025** - Our survey paper [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040) is released!
 - **Sep 18, 2025** - Our paper [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://arxiv.org/abs/2503.11146) got accepted to **NeurIPS 2025**! 🎉
 - **Sep 10, 2025** – Our [*TruthTorchLM*](https://arxiv.org/abs/2507.08203) paper got accepted to **EMNLP 2025 System Demonstrations**! 🎉
