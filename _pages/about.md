@@ -19,6 +19,7 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 
 ## 📰 News
 
+- **Nov 07, 2025** - My first first-author paper [*“GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation”*](https://arxiv.org/abs/2508.16191) was accepted to **AAAI 2026**! 🎉
 - **Oct 31, 2025** - Honored to receive the Best Poster Award 🏆 at the USC ECE 15th Annual Research Festival, among 110 participating teams!
 - **Oct 15, 2025** - Our survey paper [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040) is released!
 - **Sep 18, 2025** - Our paper [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://arxiv.org/abs/2503.11146) got accepted to **NeurIPS 2025**! 🎉
