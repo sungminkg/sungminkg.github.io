@@ -25,7 +25,7 @@ author_profile: true
 
 ### 2026
   - **GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation**  
-  ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*  
+  ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*
   **AAAI 2026**
   [[Paper](https://arxiv.org/abs/2508.16191)]
 
