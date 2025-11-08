@@ -14,10 +14,6 @@ author_profile: true
 ## 📄 Publications  
 
 ### Preprints
-  - **GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation**  
-  ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*  
-  *Under Review* [[Paper](https://arxiv.org/abs/2508.16191)]
-
 - **Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering**  
   *Yavuz Faruk Bakman, **Sungmin Kang**, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel´em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy*  
   *Under Review* [[Paper](https://arxiv.org/abs/2510.02671)]
@@ -26,6 +22,13 @@ author_profile: true
   ***Sungmin Kang**, Yavuz Faruk Bakman, Duygu Nur Yaldiz, Baturalp Buyukates, Salman Avestimehr*  
   *Under Review* [[Paper](https://arxiv.org/abs/2510.12040)]
   
+
+### 2026
+  - **GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation**  
+  ***Sungmin Kang**, Jisoo Kim, Salman Avestimehr, Sunwoo Lee*
+  **AAAI 2026**
+  [[Paper](https://arxiv.org/abs/2508.16191)]
+
 
 ### 2025  
 - **Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**  
