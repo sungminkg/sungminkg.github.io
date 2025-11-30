@@ -1,7 +1,7 @@
 ---
 title: "USC ECE Annual Research Festival"
 collection: talks
-type: "Lecture"
+type: "Poster Presentation"
 permalink: /talks/2025-10-31-USCResearchFestival
 venue: "USC"
 date: 2025-10-31
