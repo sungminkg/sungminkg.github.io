@@ -12,7 +12,7 @@ Presented a poster at the USC ECE Annual Research Festival and was awarded the B
 
 [**Link to USC News**](https://viterbischool.usc.edu/news/2025/11/15th-ece-mhi-research-festival/)
 
-<img src="/images/USC_Research_Festival1.JPG" alt="Poster Presentation" width="60%">
+![Poster Presentation](/images/USC_Research_Festival1.JPG)
 
 ![Huge honor to take a pic with Ming Hsieh](/images/USC_Research_Festival2.JPG)
 
