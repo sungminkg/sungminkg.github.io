@@ -29,9 +29,9 @@ While model-level reliability has been the primary focus of trustworthy LLM rese
 I have primarily worked on **uncertainty quantification** for LLM-generated answers. I have explored how LLM UQ methods perform in realistic aspects, including threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness. Along with this work, I participated in building [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 25+ UQ methods with unified evaluation, calibration, and long-form claim-level assessment. I also proposed a UQ method for contextual QA that measures feature gaps along honesty, contextual reliance, and context comprehension via contrastive prompts and representation analysis. Overall, I worked on a survey paper for LLM UQ for hallucination detection, providing comprehensive overview of LLM UQ and systematic categorization of existing methods with individual brief explanation. 
 
 Selected Papers:
+- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), **ICLR 2026** 
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** 
 - [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025**
-- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), **ICLR 2026** 
 - [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040), *preprint*
 
 
