@@ -14,16 +14,16 @@ author_profile: true
 ## 📄 Publications  
 
 ### Preprints
-- **Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering**  
-  *Yavuz Faruk Bakman, **Sungmin Kang**, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel´em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy*  
-  *Under Review* [[Paper](https://arxiv.org/abs/2510.02671)]
-
 - **Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions**  
   ***Sungmin Kang**, Yavuz Faruk Bakman, Duygu Nur Yaldiz, Baturalp Buyukates, Salman Avestimehr*  
   *Under Review* [[Paper](https://arxiv.org/abs/2510.12040)]
   
 
 ### 2026
+ - **Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering**  
+  *Yavuz Faruk Bakman, **Sungmin Kang**, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel´em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy*  
+  **ICLR 2026** [[Paper](https://arxiv.org/abs/2510.02671)]
+
   - **GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation**  
   ***Sungmin Kang***, *Jisoo Kim*, *Salman Avestimehr*, *Sunwoo Lee*  
   **AAAI 2026**
