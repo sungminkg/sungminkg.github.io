@@ -31,7 +31,7 @@ I have primarily worked on **uncertainty quantification** for LLM-generated answ
 Selected Papers:
 - [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** 
 - [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025**
-- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), *preprint* 
+- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), **ICLR 2026** 
 - [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040), *preprint*
 
 
