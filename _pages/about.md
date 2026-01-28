@@ -20,6 +20,7 @@ You can find my specific research interest in the [Research](https://sungminkg.g
 ## 📰 News
 
 - **Jan 25, 2026** - Our paper [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Question-Answering*](https://arxiv.org/abs/2510.02671) got accepted to **ICLR 2026**! 🎉
+- **Jan 25, 2026** - I will be joining **Argonne National Laboratory** as a research intern this summer, working on large-scale heterogeneous federated learning as part of the **GENESIS project**.
 - **Nov 07, 2025** - My first first-author paper [*“GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation”*](https://arxiv.org/abs/2508.16191) was accepted to **AAAI 2026**! 🎉
 - **Oct 31, 2025** - Honored to receive the Best Poster Award 🏆 at the USC ECE 15th Annual Research Festival, among 110 participating teams!
 - **Oct 15, 2025** - Our survey paper [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040) is released!
