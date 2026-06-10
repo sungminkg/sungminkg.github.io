@@ -1,0 +1,12 @@
+
+<div class="work-item{% unless include.logo %} work-item--no-logo{% endunless %}">
+  {% if include.logo %}
+    <img src="{{ include.logo }}" alt="{{ include.alt | default: include.company }}">
+  {% endif %}
+  <div class="work-meta">
+    <div class="company">{{ include.company }}</div>
+    {% if include.role %}<div class="role">{{ include.role }}</div>{% endif %}
+    {% if include.tenure %}<span class="tenure">{{ include.tenure }}</span>{% endif %}
+    {% if include.location %}<span class="location">{{ include.location }}</span>{% endif %}
+  </div>
+</div>

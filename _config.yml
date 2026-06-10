@@ -1,15 +1,16 @@
 # Welcome to Jekyll!
 
 # Basic Site Settings
-remote_theme: academicpages/academicpages.github.io
 locale: "en-US"
+site_theme: "my"
 title: "Sungmin Kang"
 title_separator: "-"
 name: &name "Sungmin Kang"
-description: &description ""
+description: &description "Personal website"
 url: https://sungminkg.github.io
 baseurl: ""
 repository: "sungminkg/sungminkg.github.io"
+show_follow: false
 
 # Site Author
 author:
@@ -23,7 +24,7 @@ author:
   uri              : 
   github           : "sungminkg"
   googlescholar    : "https://scholar.google.com/citations?user=4gE_vYgAAAAJ"
-  linkedin         : "https://www.linkedin.com/in/sungmin-kang-1999y64/"
+  linkedin         : "sungmin-kang-1999y64"
 
 # Site Settings
 teaser:  
@@ -61,20 +62,20 @@ staticman:
         format: "iso8601"
 
 atom_feed:
-  hide: false
+  hide: true
   path: 
 
 
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /publications/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -82,9 +83,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
     
 
 # SEO Related
@@ -244,7 +242,6 @@ timezone: America/Los_Angeles
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 
