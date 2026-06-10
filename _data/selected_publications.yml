@@ -1,30 +1,30 @@
 - title: "Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Question-Answering"
   authors_html: "Yavuz Faruk Bakman, <span class='me'>Sungmin Kang</span>, Zhiqi Huang, Duygu Nur Yaldiz, Catarina G Bel'em, Chenyang Zhu, Anoop Kumar, Alfy Samuel, Daben Liu, Salman Avestimehr, Sai Praneeth Karimireddy"
   venue: ICLR 2026
-  paper_url: https://arxiv.org/abs/2510.02671
+  paper_url: https://openreview.net/forum?id=OWvvdl27CE
 
 - title: "GEM: A Scale-Aware and Distribution-Sensitive Sparse Fine-Tuning Framework for Effective Downstream Adaptation"
   authors_html: "<span class='me'>Sungmin Kang</span>, Jisoo Kim, Salman Avestimehr, Sunwoo Lee"
   venue: AAAI 2026
-  paper_url: https://arxiv.org/abs/2508.16191
+  paper_url: https://ojs.aaai.org/index.php/AAAI/article/view/39410
 
 - title: "Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions"
   authors_html: "<span class='me'>Sungmin Kang</span>, Yavuz Faruk Bakman, Duygu Nur Yaldiz, Baturalp Buyukates, Salman Avestimehr"
-  venue: Preprint
-  paper_url: https://arxiv.org/abs/2510.12040
+  venue: IEEE BITS the Information Theory Magazine 2025
+  paper_url: https://ieeexplore.ieee.org/abstract/document/11512977
 
 - title: "Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning"
   authors_html: "Jisoo Kim, <span class='me'>Sungmin Kang</span>, Sunwoo Lee"
   venue: NeurIPS 2025
-  paper_url: https://arxiv.org/abs/2503.11146
+  paper_url: https://openreview.net/forum?id=t6EPMcudln
 
 - title: "TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs"
   authors_html: "Duygu Nur Yaldiz*, Yavuz Faruk Bakman*, <span class='me'>Sungmin Kang</span>, Alperen Ozis, Hayrettin Eren Yildiz, Mitash Ashish Shah, Zhiqi Huang, Anoop Kumar, Alfy Samuel, Daben Liu, Sai Praneeth Karimireddy, Salman Avestimehr"
   venue: EMNLP 2025 System Demonstrations
-  paper_url: https://arxiv.org/abs/2507.08203
+  paper_url: https://aclanthology.org/2025.emnlp-demos.54/
   code_url: https://github.com/Ybakman/TruthTorchLM
 
 - title: "Reconsidering LLM Uncertainty Estimation Methods in the Wild"
   authors_html: "Yavuz Faruk Bakman*, Duygu Nur Yaldiz*, <span class='me'>Sungmin Kang</span>, Tuo Zhang, Baturalp Buyukates, Salman Avestimehr, Sai Praneeth Karimireddy"
   venue: ACL 2025
-  paper_url: https://arxiv.org/abs/2506.01114
+  paper_url: https://aclanthology.org/2025.acl-long.1429/

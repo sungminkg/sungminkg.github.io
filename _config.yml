@@ -16,11 +16,11 @@ show_follow: false
 author:
   avatar           : "SungminKang.jpg"
   name             : "Sungmin Kang"
-  pronouns         : "he/him/his"  
-  bio              : "M.S. student in Electrical Engineering at USC"
-  location         : "Los Angeles"
-  employer         : "University of Southern California"
-  email            : "kangsung@usc.edu" 
+  pronouns         : "he/him/his"
+  bio              : "Incoming CS Ph.D. Student at Texas A&M University"
+  location         : "Lemont"
+  employer         : "Argonne National Laboratory"
+  email            : "kangsung@usc.edu"
   uri              : 
   github           : "sungminkg"
   googlescholar    : "https://scholar.google.com/citations?user=4gE_vYgAAAAJ"

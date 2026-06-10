@@ -29,10 +29,10 @@ While model-level reliability has been the primary focus of trustworthy LLM rese
 I have primarily worked on **uncertainty quantification** for LLM-generated answers. I have explored how LLM UQ methods perform in realistic aspects, including threshold sensitivity, query transformations, long-form applicability, and ensemble effectiveness. Along with this work, I participated in building [**TruthTorchLM**](https://github.com/Ybakman/TruthTorchLM), an open-source library implementing 25+ UQ methods with unified evaluation, calibration, and long-form claim-level assessment. I also proposed a UQ method for contextual QA that measures feature gaps along honesty, contextual reliance, and context comprehension via contrastive prompts and representation analysis. Overall, I worked on a survey paper for LLM UQ for hallucination detection, providing comprehensive overview of LLM UQ and systematic categorization of existing methods with individual brief explanation. 
 
 Selected Papers:
-- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://arxiv.org/abs/2510.02671), **ICLR 2026** 
-- [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://arxiv.org/abs/2506.01114), **ACL 2025** 
-- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://arxiv.org/abs/2507.08203), **EMNLP 2025**
-- [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://arxiv.org/abs/2510.12040), *preprint*
+- [*Uncertainty as Feature Gaps: Epistemic Uncertainty Quantification of LLMs in Contextual Qusestion-Answering*](https://openreview.net/forum?id=OWvvdl27CE), **ICLR 2026**
+- [*Reconsidering LLM Uncertainty Estimation Methods in the Wild*](https://aclanthology.org/2025.acl-long.1429/), **ACL 2025**
+- [*TruthTorchLM: A Comprehensive Library for Predicting Truthfulness in LLM Outputs*](https://aclanthology.org/2025.emnlp-demos.54/), **EMNLP 2025**
+- [*Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions*](https://ieeexplore.ieee.org/abstract/document/11512977), **IEEE BITS the Information Theory Magazine 2025**
 
 
 <br>
@@ -41,8 +41,8 @@ Selected Papers:
 I have worked in making machine learning systems more **efficient** and **scalable** through signal-driven methods. In particular, I introduced the use of the gradient-to-weight ratio as a measure to interpret how much each layer or parameter has learned relative to its weight. I proposed using a gradient-to-weight ratio and entropy-based masking fine-tuning method, achieving 1.5% higher accuracy than full fine-tuning with 0.1% tunable parameters. In addition, I developed a federated learning algorithm that selectively updates high-variability layers, reducing communication costs by up to 83% without loss in accuracy. 
 
 Selected Papers:  
-- [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://arxiv.org/abs/2508.16191), **AAAI 2026**
-- [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://www.arxiv.org/abs/2503.11146), **NeurIPS 2025**
+- [*GEM: A Scale- and Distribution-Aware Sparse Fine-Tuning Framework for Effective Downstream Adaptation*](https://ojs.aaai.org/index.php/AAAI/article/view/39410), **AAAI 2026**
+- [*Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning*](https://openreview.net/forum?id=t6EPMcudln), **NeurIPS 2025**
 
 
 ---

@@ -1,4 +1,7 @@
-:root { --company-logo-size: 42px}
+:root {
+  --company-logo-width: 84px;
+  --company-logo-height: 42px;
+}
 
 // Work Experiments
 .work-list {
@@ -10,7 +13,7 @@
 
 .work-item {
   display: grid;
-  grid-template-columns: var(--company-logo-size) 1fr;  /* 아바타 축소 */
+  grid-template-columns: var(--company-logo-width) 1fr;
   column-gap: 10px;
   padding: 2px 0;
 }
@@ -20,8 +23,9 @@
 }
 
 .work-item img {
-  width: var(--company-logo-size); height: var(--company-logo-size);
-  object-fit: cover;
+  width: var(--company-logo-width);
+  height: var(--company-logo-height);
+  object-fit: contain;
   border-radius: 6px;
 }
 
@@ -211,6 +215,12 @@
   }
 
   a { text-decoration: none; }
+}
+
+.news-scroll {
+  max-height: 22rem;
+  overflow-y: auto;
+  padding-right: 0.75rem;
 }
 
 // override `layout/_sidebar`

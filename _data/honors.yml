@@ -1,19 +1,24 @@
+- title: MS Honors Fellowship
+  assoc: USC
+  desc: Awarded for an excellent academic record and research achievements.
+  date: "2026.05"
+
+- title: Outstanding Academic Achievement Award
+  assoc: USC Viterbi
+  desc: Awarded to one master's student from the Ming Hsieh Department of Electrical and Computer Engineering.
+  date: "2026.05"
+
+- title: Student Travel Scholarship & Volunteer
+  assoc: AAAI-26
+  desc: Selected for a student travel scholarship and volunteer role at AAAI-26.
+  date: "2026.01"
+
 - title: Best Poster Award
   assoc: USC ECE 15th Annual Research Festival
   desc: Awarded among 110 participating teams.
-  date: 2025.10
+  date: "2025.10"
 
-- title: MS Honors Fellow
-  assoc: University of Southern California
-  desc: Master's fellowship recognition.
-  date: 2024
-
-- title: Magna Cum Laude
+- title: Daesang Foundation Scholarship
   assoc: Sogang University
-  desc: Graduated with B.S. in Electronic Engineering.
-  date: 2024.02
-
-- title: 3rd Prize
-  assoc: Sogang University Capstone Design Project Contest
-  desc: OutVenture in-car educational AR chatbot system.
-  date: 2023
+  desc: Merit-based scholarship awarded from 2019 to 2023.
+  date: "2019-2023"
