@@ -114,4 +114,4 @@ My research experience includes:
 
 # Contact
 
-Feel free to contact me at [kangsung@usc.edu](mailto:kangsung@usc.edu) or connect via [LinkedIn](https://www.linkedin.com/in/sungmin-kang-1999y64/). My CV is available [here]({{ site.baseurl }}/assets/CV_Sungmin_Kang.pdf).
+Feel free to contact me at [sungmin.kang@tamu.edu](mailto:sungmin.kang@tamu.edu) or connect via [LinkedIn](https://www.linkedin.com/in/sungmin-kang-1999y64/). My CV is available [here]({{ site.baseurl }}/assets/CV_Sungmin_Kang.pdf).
