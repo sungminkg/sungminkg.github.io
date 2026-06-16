@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an incoming Ph.D. student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Zhengzhong Tu](https://vztu.github.io), starting in Fall 2026. Currently, I am working as a Research Intern in the Mathematical and Computer Science (MCS) Division at [Argonne National Laboratory](https://www.anl.gov/), where I work with Dr. [Kibaek Kim](https://kibaekkim.github.io).
+Hi! I'm an incoming Ph.D. student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Zhengzhong Tu](https://vztu.github.io), starting in Fall 2026. Currently, I am working as a Research Intern in the Mathematics and Computer Science (MCS) Division at [Argonne National Laboratory](https://www.anl.gov/), where I work with Dr. [Kibaek Kim](https://kibaekkim.github.io).
 
 Previously, I earned my master's degree in Electrical Engineering at the [University of Southern California](https://www.usc.edu/), where I closely worked with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org), and collaborated with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). I received my B.S. in Electronic Engineering from [Sogang University](https://wwwe.sogang.ac.kr/), where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
 
