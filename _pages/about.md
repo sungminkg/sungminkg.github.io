@@ -7,16 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I'm a Ph.D. student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Zhengzhong Tu](https://vztu.github.io), starting in Fall 2026. Currently, I am working as a Research Intern in the Mathematics and Computer Science (MCS) Division at [Argonne National Laboratory](https://www.anl.gov/), where I work with Dr. [Kibaek Kim](https://kibaekkim.github.io).
+Howdy! I'm a Ph.D. student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Zhengzhong Tu](https://vztu.github.io), starting in Fall 2026. 
 
-Previously, I earned my master's degree in Electrical Engineering at the [University of Southern California](https://www.usc.edu/), where I closely worked with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org), and collaborated with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). I received my B.S. in Electronic Engineering from [Sogang University](https://wwwe.sogang.ac.kr/), where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
+Previously, I earned my master's degree in Electrical Engineering at the [University of Southern California](https://www.usc.edu/), where I closely worked with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org), also collaborating with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). I worked as a Research Intern in the Mathematics and Computer Science (MCS) Division at [Argonne National Laboratory](https://www.anl.gov/), supervised by Dr. [Kibaek Kim](https://kibaekkim.github.io). I received my B.S. in Electronic Engineering from [Sogang University](https://wwwe.sogang.ac.kr/), where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
 
 My research interests broadly span **Generative AI**, **Agentic AI**, **Multimodal AI**, and **Trustworthy AI**, with the goal of building practical AI systems that can be deployed in real-world settings. Rather than treating these areas as separate directions, I am especially interested in their intersection: how capable generative and agentic systems can reason over multimodal information while remaining reliable, interpretable, and safe.
-
-My research experience includes:
-
-- **Trustworthy LLMs:** LLM Uncertainty Quantification, Hallucination Detection, Representation Analysis and Control
-- **Efficient Machine Learning:** Federated Learning, Distributed Systems, Parameter-Efficient Fine-Tuning (PEFT), Gradient-based Importance Estimation
 
 # Work Experience
 
