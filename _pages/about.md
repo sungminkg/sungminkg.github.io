@@ -70,7 +70,8 @@ My research interests broadly span **Generative AI**, **Agentic AI**, **Multimod
 
 <div class="news-scroll">
 <ul>
-  <li><strong>Jun 08, 2026</strong> - I started my summer internship at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where I am working on asynchronous federated learning.</li>
+  <li><strong>Aug 24, 2026</strong> - Started my Ph.D. journey at TAMU! </li>
+  <li><strong>Jun 08, 2026</strong> - I started my summer internship at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, working on agentic paper coder and asynchronous federated learning simulator.</li>
   <li><strong>May 15, 2026</strong> - I graduated from the <a href="https://www.usc.edu">University of Southern California</a> with my M.S. in Electrical Engineering and was selected as an MS Honors Fellow.</li>
   <li><strong>May 07, 2026</strong> - Honored to receive the <strong>Outstanding Academic Achievement Award</strong> from the Ming Hsieh Department of Electrical and Computer Engineering at USC, awarded to one master's student in the department.</li>
   <li><strong>Apr 30, 2026</strong> - Our paper, <a href="https://ieeexplore.ieee.org/abstract/document/11512977"><em>Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions</em></a>, was accepted to <strong>IEEE BITS the Information Theory Magazine</strong>.</li>
