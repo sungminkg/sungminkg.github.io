@@ -9,13 +9,16 @@ redirect_from:
 
 Howdy! I'm a first year Ph.D. student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Prof. [Zhengzhong Tu](https://vztu.github.io).
 
-Previously, I earned my master's degree in Electrical Engineering at the [University of Southern California](https://www.usc.edu/), where I closely worked with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org), also collaborating with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). I worked as a Research Intern in the Mathematics and Computer Science (MCS) Division at [Argonne National Laboratory](https://www.anl.gov/), supervised by Dr. [Kibaek Kim](https://kibaekkim.github.io). I received my B.S. in Electronic Engineering from [Sogang University](https://wwwe.sogang.ac.kr/), where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
+Previously, I earned my master's degree in Electrical Engineering at the [University of Southern California](https://www.usc.edu/), where I worked closely with Prof. [Salman Avestimehr](https://www.avestimehr.com/) and Prof. [Sai Praneeth Karimireddy](https://spkreddy.org), and also collaborated with Prof. [Sunwoo Lee](https://sites.google.com/view/sunwoolee/home). I received my B.S. in Electronic Engineering from [Sogang University](https://wwwe.sogang.ac.kr/), where I worked with Prof. [Hongseok Kim](https://nice.sogang.ac.kr/).
+
+# Research Interests
 
 My research focuses on **AI safety** and **Agentic AI**. As AI agents are given more autonomy and access, ensuring that they behave safely becomes crucial. At the same time, I believe today's foundation models are already highly capable, and much of the remaining gap lies in how we use them: how we structure agents, what information each one sees, and what they remember over time.
 
 **AI Safety**
 
 - **Web agent safety**: How visual and textual signals in web pages can steer or mislead screenshot-based agents, and how to measure and defend against such manipulation.
+- **Agentic red teaming and defense**: Agentic systems that automatically discover vulnerabilities and evolve attacks, as well as defenses that evolve alongside them.
 
 **Agentic AI**
 
