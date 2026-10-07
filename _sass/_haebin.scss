@@ -302,3 +302,29 @@
   from { opacity: 0; transform: translateY(5px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+// Sidebar links: one centered row of icons, always visible (no "Follow" toggle)
+.author__urls.author__icon-row {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  position: static;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+
+  &:before,
+  &:after {
+    display: none;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    font-size: 1.3em;
+  }
+}
